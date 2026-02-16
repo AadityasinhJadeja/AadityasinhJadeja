@@ -1,135 +1,100 @@
-<!-- AJ OS GitHub Profile -->
+<!-- ===================================================== -->
+<!--                    AJ PROFILE                         -->
+<!-- ===================================================== -->
 
-<h1 align="center">⚡ AJ — Builder Mode Always On</h1>
+<h1 align="center">⚡ AJ — AI Product Builder</h1>
 
 <p align="center">
-AI • Product • Systems • Execution
+  <em>I turn ideas into shipped systems. Fast.</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%7C+Product+%7C+Systems+Thinker;Builder+Who+Ships+Fast;GenAI+%40+Labcorp;Future+AI+Product+Manager;Speed+is+my+advantage" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I don’t just write code.
+- 🧪 Data Scientist (GenAI) @ Labcorp  
+- ⚡ AI Product Builder focused on execution speed  
+- 🚀 Building systems at **AI × Product × Human Behavior** intersection  
+- 🎯 Mission: Reduce human cognitive load using intelligent tools  
 
-I design systems.
-I ship ideas.
-I obsess over users.
-I move fast.
-
-Currently building at the intersection of:
-
-> **AI × Product × Human Behavior**
-
-Data Scientist (GenAI) @ Labcorp
-Future: AI Product Manager / Builder
+> Speed of execution > perfection of ideas
 
 ---
 
-## 🚀 What Makes Me Different
+## 🔥 Current Focus
 
-Most people learn.
-
-I build while learning.
-
-Most people plan.
-
-I ship while planning.
-
-Most people wait for permission.
-
-I create opportunities.
+- AI Agents & Automation
+- Rapid MVP Development
+- Product Thinking + Engineering
+- Real-world AI Applications
+- Systems for decision making & productivity
 
 ---
 
-## ⚡ Current Mission
+## 🚀 Featured Systems
 
-Building tools that:
+### ⚡ AJ-OS — Personal AI Operating System
+AI-powered system designed to enhance thinking, execution, and clarity.
 
-* Reduce human cognitive load
-* Increase decision clarity
-* Automate repetitive workflows
-* Turn ideas → prototypes in hours
+### 🚀 ApplyFast — Job Search Automation
+Automation tool helping job seekers accelerate applications and tracking.
 
-Speed is my competitive advantage.
-
----
-
-## 🧪 Proof of Execution
-
-🧠 Built AI systems in healthcare environment
-⚡ Reduced GenAI costs ~30% through optimization
-🚀 Created multiple AI products & MVPs
-🌍 Led communities reaching 700K+ people
-🎯 Guided 100+ students in career journeys
-
-I believe credibility = shipped work.
+### 🧠 AI Healthcare Systems
+GenAI + ML solutions improving real workflows in healthcare environments.
 
 ---
 
-## 🧰 My Builder Stack
+## 🧰 Builder Stack
 
-**AI**
-Python • LLM APIs • Prompt Engineering • ML
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
 
-**Product**
-User Research • Rapid Prototyping • Experimentation • Analytics
+### Product & Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
-**Tools**
-GitHub • Vercel • Supabase • Notion • Figma • AI Studio
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square"/>
+</p>
 
 ---
 
 ## 🧭 How My Brain Works
 
-```
-Idea → Prototype → Feedback → Iterate → Ship → Repeat
-```
-
-No overthinking.
-No perfection paralysis.
-Just momentum.
-
----
-
-## 🔥 Featured Systems
-
-Instead of random projects, I build **systems**.
-
-### ⚡ AJ-OS
-
-Personal AI Operating System designed to enhance thinking, execution, and productivity.
-
-### 🚀 ApplyFast
-
-Automation platform helping job seekers accelerate applications.
-
-### 🧠 AI Healthcare Work
-
-GenAI + ML solutions improving real workflows.
-
-More coming.
-
-Always shipping.
-
----
-
-## 📈 Builder Philosophy
-
-> The future belongs to people who can execute faster than others can decide.
-
----
-
-## 🌎 Beyond GitHub
-
-* Portfolio → https://www.aadityasinhjadeja.com/gh
-
----
-
-## 🧠 Fun Fact
-
-I treat life like a product roadmap.
-
----
-
-⭐ If you like builders who ship fast, follow along.
