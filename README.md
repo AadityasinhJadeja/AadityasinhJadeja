@@ -1,4 +1,4 @@
-<h1 align="center">⚡ AJ — AI Product Builder</h1>
+<h1 align="center">⚡ AJ | AI Product Builder</h1>
 
 <p align="center">
 I ship AI products fast. Systems thinker. Future AI PM.
