@@ -10,7 +10,7 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ---
 
-## 🧠 About
+## About
 
 - 🧪 Data Scientist (GenAI) @ Labcorp  
 - ⚡ Building at **AI × Product × Human Behavior**  
@@ -22,24 +22,15 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ---
 
-## 🚀 Systems I'm Building
+## Systems I'm Building
 
-⚡ **AJ-OS** — Personal AI Operating System  
-🚀 **ApplyFast** — Job search automation platform  
-🧠 **AI Healthcare** — GenAI + ML workflows  
+⚡ **AJ-OS** - Personal AI Operating System  
+🚀 **ApplyFast** - Job search automation platform  
+🧠 **AI Healthcare** - GenAI + ML workflows  
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityasinhJadeja&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityasinhJadeja&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityasinhJadeja&theme=tokyo-night&hide_border=true"/>
-</p>
+## GitHub
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AadityasinhJadeja&color=blueviolet&style=flat-square"/>
