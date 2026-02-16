@@ -50,7 +50,7 @@ I ship AI products fast. Systems thinker. Future AI PM.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/AadityasinhJadeja/AadityasinhJadeja/output/snake.svg?v=2" alt="contribution snake" />
 </p>
 
 ---
@@ -63,5 +63,5 @@ Idea → Prototype → Ship → Fail → Learn → Repeat
 
 ## 🌎 Connect
 
-Portfolio • LinkedIn 
-https://www.aadityasinhjadeja.com/gh | https://www.linkedin.com/in/aadityasinh-jadeja/ 
+Portfolio: https://www.aadityasinhjadeja.com/gh
+LinkedIn: https://www.linkedin.com/in/aadityasinh-jadeja/ 
