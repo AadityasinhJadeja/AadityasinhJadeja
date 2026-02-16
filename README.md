@@ -30,14 +30,6 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AadityasinhJadeja&color=blueviolet&style=flat-square"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
