@@ -1,7 +1,7 @@
 <h1 align="center">⚡ AJ | AI Product Builder</h1>
 
 <p align="center">
-I ship AI products fast. Systems thinker. Future AI PM.
+I ship reliable AI products.
 </p>
 
 <p align="center">
