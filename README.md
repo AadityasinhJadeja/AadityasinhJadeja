@@ -12,11 +12,10 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ## About
 
-- 🧪 Data Scientist (GenAI) @ Labcorp  
-- ⚡ Building at **AI × Product × Human Behavior**  
-- 🚀 Multiple AI systems & MVPs shipped  
-- 🌍 Prev. PM for 700K+ audience
-- 👨‍💻 Vibe coding 6+ hours a day
+- Data Scientist (GenAI) @ Labcorp  
+- Building at **AI × Product × Human Behavior**  
+- Multiple AI systems & MVPs shipped  
+- Prev. Researcher @ISRO & PM for 700K+ audience ecosystem product
 
 > Execution speed is my competitive advantage.
 
@@ -24,9 +23,9 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ## Systems I'm Building
 
-⚡ **AJ-OS** - Personal AI Operating System  
-🚀 **ApplyFast** - Job search automation platform  
-🧠 **AI Healthcare** - GenAI + ML workflows  
+**AJ-OS** - Personal AI Operating System  
+**ApplyFast** - Job search automation platform  
+**AI Healthcare** - GenAI + ML workflows  
 
 ---
 
@@ -38,7 +37,7 @@ I ship AI products fast. Systems thinker. Future AI PM.
 
 ---
 
-## 🧭 How I Work
+## How I Work
 
 Idea → Prototype → Ship → Fail → Learn → Repeat
 
